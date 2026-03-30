@@ -105,7 +105,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold">LinkedIn</h4>
-                  <p className="text-gray-400">https://www.linkedin.com/in/kevin-abuta-38a77029a</p>
+                  <p className="text-gray-400">https://www.linkedin.com/in/kevin-abuta</p>
                 </div>
               </div>
 
@@ -134,7 +134,7 @@ const handleSubmit = async (e: React.FormEvent) => {
     </a>
 
     <a
-      href="https://www.linkedin.com/in/kevin-abuta-38a77029a"
+      href="https://www.linkedin.com/in/kevin-abuta"
       target="_blank"
       rel="noopener noreferrer"
       className="w-12 h-12 bg-slate-700/50 rounded-lg flex items-center justify-center text-blue-400 hover:text-white hover:bg-blue-500/20 transition-all duration-300"
