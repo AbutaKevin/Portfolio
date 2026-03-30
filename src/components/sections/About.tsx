@@ -75,11 +75,23 @@ const About = () => {
                   <p className="text-gray-400">2025 </p>
                   <p className="text-gray-300 mt-2">Specialized in Cybersecurity</p>
                 </div>
+                <div className="border-l-4 border-blue-400 pl-6">
+                  <h4 className="text-xl font-semibold text-white">Networking Basics, Introduction to Cyber Security, Digital Safety and Security Awareness, Introduction to Modern AI, Introduction to IOT and Digital Transformation & Industrial Networking Essentials</h4>
+                  <p className="text-blue-400 font-medium">Cisco Certified Network Associate (CCNA)</p>
+                  <p className="text-gray-400">2026 </p>
+                  <p className="text-gray-300 mt-2">Cisco Certified</p>
+                </div>
                 <div className="border-l-4 border-blue-500 pl-6">
                   <h4 className="text-xl font-semibold text-white">ICT Intern</h4>
-                  <p className="text-blue-500 font-medium">Ministry of Lands and Physical Planning</p>
+                  <p className="text-blue-500 font-medium">State Department of Lands and Physical Planning</p>
                   <p className="text-gray-400">2025</p>
-                  <p className="text-gray-300 mt-2">Developed web applications using PHP, React and Node.js</p>
+                  <p className="text-gray-300 mt-2">System Maintenance, Network Management, Technical Support, Data Management, System Security & Software Installation and Updates</p>
+                </div>
+                  <div className="border-l-4 border-blue-500 pl-6">
+                  <h4 className="text-xl font-semibold text-white">ICT Staff</h4>
+                  <p className="text-blue-500 font-medium">State Department of Lands and Physical Planning</p>
+                  <p className="text-gray-400">2026</p>
+                  <p className="text-gray-300 mt-2">System Maintenance, Network Management, Technical Support, Data Management, System Security & Software Installation and Updates</p>
                 </div>
               </div>
             </div>
